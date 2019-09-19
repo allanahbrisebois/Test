@@ -4,6 +4,7 @@ public class StudentList {
 
     public static void main(String[] args) {
       Student [] sList= new Student[5];
+        int num = 10; 
         
         for (int i=0;i<sList.length;i++)
         {
