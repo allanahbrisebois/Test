@@ -3,7 +3,7 @@
 public class Student {
         private String name;
         
-    private String string = status;
+    private String  = new String();
 
     /**
      * Get the value of string
