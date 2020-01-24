@@ -1,7 +1,7 @@
 //modified
 public class StudentList {
 
-
+//main method
     public static void main(String[] args) {
       Student [] sList= new Student[5];
         int num = 10; 
